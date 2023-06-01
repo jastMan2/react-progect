@@ -1,0 +1,17 @@
+.dialog-items{
+	display: grid;
+	grid-template-columns: 2fr 10fr;
+}
+.dialogs{
+	font-size: 20px;
+}
+.massage{
+	color: black;
+}
+
+.dialog a{
+	 color: black;
+}
+a.active{
+	color: palegreen;
+}

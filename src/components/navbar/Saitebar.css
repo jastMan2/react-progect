@@ -1,0 +1,31 @@
+.Nav {
+	grid-area: s;
+	font-size: 20px;
+	height: 100vh;
+	background-color: #b11b1b;
+}
+
+.Nav li {
+	padding: 3px;
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+.Nav ul {
+	padding: 10px;
+}
+
+.setting {
+	margin-top: 20px;
+}
+
+.Nav a{
+	color: aliceblue;
+}
+ 
+.Nav a.active{
+	color: aquamarine;
+	padding: 5px;
+	border-radius: 10px;
+	background-color: gold;
+}

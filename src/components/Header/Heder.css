@@ -1,0 +1,12 @@
+.heder {
+/* 	margin-bottom: 10px; */
+	/* height: 70px; */
+	background-color: #11870b;
+	display: flex;
+	align-items: center;
+	grid-area: h;
+}
+
+.heder img {
+	width: 50px;
+}
